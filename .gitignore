@@ -1,0 +1,6 @@
+*.bat
+*.sh
+*.txt
+*.db
+*.csv
+*__pycache__
